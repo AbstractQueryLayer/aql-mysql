@@ -4,7 +4,7 @@ declare(strict_types=1);
 
 namespace IfCastle\AQL\MySql\Ddl\Parser;
 
-use IfCastle\AQL\Dsl\Parser\SqlString;
+use IfCastle\AQL\TestCases\SqlString;
 use PHPUnit\Framework\TestCase;
 
 class AlterTableTest extends TestCase
